@@ -1,5 +1,6 @@
 # TG1 del Grupo 4 (mañana)
 Título del trabajo: Content Management Systems (CMS)
+Tecnologías escogidas: WordPress & Joomla
 
 Usuario GitHub 1: " MiroslavaGenkova " - Miroslava Genkova Petrova (coordinadora)
 Usuario GitHub 2: " NattdelaFuente " - Natalia de la Fuente (participante 2)
